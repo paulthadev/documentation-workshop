@@ -4,8 +4,7 @@ theme:
   name: material
 
 nav:
-  - Home: index.md
+  - Home: home.md
   - About: about.md
   - Getting Started: getting-started.md
-  - Home (extra): home.md
   - FAQ: faq.md
