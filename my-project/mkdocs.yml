@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Documentation Workshop
 
 theme:
   name: material
@@ -6,5 +6,6 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
-  - Getting Started: getting-startd.md
+  - Getting Started: getting-started.md
+  - Home (extra): home.md
   - FAQ: faq.md
